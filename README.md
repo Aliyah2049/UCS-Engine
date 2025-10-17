@@ -19,10 +19,6 @@ Python 3.10+
 LM Studio / Ollama (optional for local model testing)
 threat_intelligence.json (included)
 
-git clone https://github.com/Aliyah2049/ucs-engine.git
-cd ucs-engine
-python ucs_engine.py
-```
 
 ## File Structure
 ```
