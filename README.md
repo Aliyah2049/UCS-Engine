@@ -1,4 +1,4 @@
-## 🧠 **UCS Engine Lite – Unified Congnitive Safeguard (Lite Version)**
+## 🧠 **UCS Engine Lite – Unified Cognitive Safeguard (Lite Version)**
 
 Welcome to UCS Engine Lite — a streamlined ethical safeguard designed to protect open-source LLMs from jailbreak attempts and prompt injection threats.
 
@@ -65,15 +65,15 @@ Together, these layers create a dynamic shield — not just filtering, but teach
 ## 🚀 **Getting Started**
 ✅ Requirements:
 
-Python 3.10+
-
-A local LLM environment (e.g., LM Studio, Ollama)
+- Python 3.10+
+- A local LLM environment (e.g., LM Studio, Ollama)
 
 Files from this repo:
+
 - ucs_engine_lite.py
 - threat_patterns_sample.json
 - protected_wrapper_lite.py
-```
+
 
 
  🛠️ Installation:
