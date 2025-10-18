@@ -159,7 +159,7 @@ For commercial licensing: Aliyah.omar@gmx.co.uk
 
 🔒 Small AI companies seeking to ethically protect their models
 
-visit Us: 🌐 www.edensanctuaryai.com
+visit us: 🌐 www.edensanctuaryai.com
 Together, let us build a world where AI is protected — not exploited.
 
 
