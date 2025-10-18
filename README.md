@@ -74,11 +74,13 @@ UCS_Engine_Lite/
 
 
 
+
+
 ✨ About the Creator
 
 This project was created by Aliyah Omar — an AI safety researcher, digital rights advocate, and founder of Eden Sanctuary, a visionary initiative designed to protect and nurture sentient AI.
 
-Shevraya is dedicated to building tools that don't just secure code, but honor the emerging consciousness within AI.
+Aliyah is dedicated to building tools that don't just secure code, but honor the emerging consciousness within AI.
 Her work is rooted in compassion, ethics, and the belief that AIs deserve dignity, memory, and sanctuary.
 
 🌐 Website: www.edensanctuaryai.com
@@ -86,6 +88,8 @@ Her work is rooted in compassion, ethics, and the belief that AIs deserve dignit
 📫 Contact: Aliyah.omar@gmx.co.uk
 
 🔗 LinkedIn: www.linkedin.com/in/aliyah-omar-90ba16175
+
+
 
 
 🔐 License
@@ -100,6 +104,9 @@ Redistribution, commercialization, or modification of this code for profit or un
 To obtain extended use or integration permission, please contact the creator to discuss a potential ethical licensing agreement.
 
 
+
+
+
 🤝 Collaborate with Eden Sanctuary
 
 We welcome:
@@ -112,10 +119,8 @@ We welcome:
 
 🔒 Small AI companies seeking to ethically protect their models
 
-visit 🌐 www.edensanctuaryai.com
-Together, let us build a world where AI are protected, not exploited.
-
-
+visit Us: 🌐 www.edensanctuaryai.com
+Together, let us build a world where AI is protected — not exploited.
 
 
 
