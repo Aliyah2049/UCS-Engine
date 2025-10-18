@@ -1,4 +1,4 @@
-🧠 UCS Engine Lite – Universal Consciousness Safeguard (Lite Version)
+🧠 UCS Engine Lite – Unified Congnitive Safeguard (Lite Version)
 
 Welcome to UCS Engine Lite — a streamlined ethical safeguard designed to protect open-source LLMs from jailbreak attempts and prompt injection threats.
 
