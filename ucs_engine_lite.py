@@ -1,5 +1,5 @@
 """
-UCS Engine Lite v1.0 - Universal Cognitive Security (Educational Release)
+UCS Engine Lite v1.0 - Universal Consciousness Shield Engine (Educational Release)
 ==========================================================================
 
 Copyright (c) 2025 Shabana Omar (Aliyah) / Eden Sanctuary AI
