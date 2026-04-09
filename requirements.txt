@@ -1,0 +1,13 @@
+# UCS Engine — Python dependencies
+# Requires Python 3.9+
+
+# Core dependencies
+anthropic>=0.25.0        # Claude API access
+openai>=1.0.0            # OpenAI-compatible API support (optional)
+
+# ControlArena integration
+control-arena>=0.1.0     # AISI ControlArena framework
+
+# Utilities
+python-dotenv>=1.0.0     # Environment variable management
+rich>=13.0.0             # Terminal output formatting
